@@ -12,3 +12,6 @@ git checkout 1.29.1
 
 sudo ./script/build/linux
 ```
+
+## ufw と docker -p
+https://qiita.com/jqtype/items/9574ef74868b73323939
