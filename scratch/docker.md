@@ -14,4 +14,9 @@ sudo ./script/build/linux
 ```
 
 ## ufw と docker -p
+
+docker: -p, docker-compose: ports
+docker: --expose, docker-compose: expose
+
 https://qiita.com/jqtype/items/9574ef74868b73323939
+
