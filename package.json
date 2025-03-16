@@ -1,23 +1,22 @@
 {
   "name": "zenn-general",
   "version": "1.0.0",
-  "description": "for zenn",
+  "description": "Zenn: https://zenn.dev/hinoaki\r 執筆・デプロイ用のrepositoryです。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hinoaki-zenn/zenn-general.git"
+    "url": "git+https://github.com/hinoaki-zen/zenn-general.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hinoaki-zenn/zenn-general/issues"
+    "url": "https://github.com/hinoaki-zen/zenn-general/issues"
   },
-  "homepage": "https://github.com/hinoaki-zenn/zenn-general#readme",
+  "homepage": "https://github.com/hinoaki-zen/zenn-general#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.79"
+    "zenn-cli": "^0.1.158"
   }
 }
